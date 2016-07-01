@@ -13,7 +13,11 @@ body{
     vertical-align: top;
 }
 .labelname{
+	font-weight: 600 !important;
 	color:#5b5b5b ;
+}
+.form-group{
+	font-weight: 600 ;
 }
 .iconfont .d80909{
 	color: #d80909 !important;
@@ -23,22 +27,21 @@ body{
 	padding: 5px 15px;
 	border-radius: 5px;
 	background-color: #ff9d00;
-	color:#Fff;
+	color: #Fff;
 	height: 32px;
 	width: 98px;
 }
 .tac{
-	height: 50px;
+	height: 32px;
 	float: right;
 	width:120px ;
-	margin: 9px 0 9px 22px;
 
 }
 #recovery{
 	padding: 5px 15px;
 	border-radius: 5px;
 	background-color:#3391ef;
-	color:#fff;
+	color: #Fff;
 	display: none;
 	height: 32px;
 	width: 98px;
@@ -46,12 +49,13 @@ body{
 .tip{
 	color: #ccc;
 	float: left;
-	height: 50px;
-	width:200px ;
+	width: 60%;
+	height: 32px;
+
 	font-size: 11px;
 }
 .yangshi{
-	width: 320px;
-	height: 50px;
+	width: 90%;
+	height: 32px;
 	margin: 0 auto;
 }
