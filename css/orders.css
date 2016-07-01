@@ -1,0 +1,55 @@
+body{
+	font-family:  PingFangSC-Regular,Helvetica,"Droid Sans",Arial,sans-serif;
+}
+#txt {
+    border: 1px solid #C8C8C8;
+    font-size: 14px;
+    color: #c8c8c8;
+    width: 90%;
+    padding: 10px;
+    margin: 20px 5%;
+    height: 100px;
+    line-height: 20px;
+    vertical-align: top;
+}
+.labelname{
+	color:#5b5b5b ;
+}
+.iconfont .d80909{
+	color: #d80909 !important;
+}
+
+#suspend{
+	padding: 5px 15px;
+	border-radius: 5px;
+	background-color: #ff9d00;
+	height: 32px;
+	width: 98px;
+}
+.tac{
+	height: 50px;
+	float: right;
+	width:120px ;
+	margin: 9px 0 9px 22px;
+
+}
+#recovery{
+	padding: 5px 15px;
+	border-radius: 5px;
+	background-color:#3391ef;
+	display: none;
+	height: 32px;
+	width: 98px;
+}
+.tip{
+	color: #ccc;
+	float: left;
+	height: 50px;
+	width:200px ;
+	font-size: 11px;
+}
+.yangshi{
+	width: 320px;
+	height: 50px;
+	margin: 0 auto;
+}
