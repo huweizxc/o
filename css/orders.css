@@ -23,6 +23,7 @@ body{
 	padding: 5px 15px;
 	border-radius: 5px;
 	background-color: #ff9d00;
+	color:#Fff;
 	height: 32px;
 	width: 98px;
 }
@@ -37,6 +38,7 @@ body{
 	padding: 5px 15px;
 	border-radius: 5px;
 	background-color:#3391ef;
+	color:#fff;
 	display: none;
 	height: 32px;
 	width: 98px;
